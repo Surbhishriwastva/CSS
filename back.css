@@ -1,0 +1,24 @@
+#bg{
+    
+   /* background-color: yellow;*/
+/*
+    background-image:url('Images/2.jpg');
+    background-repeat:no-repeat;
+    background-size:50% 80%;  
+    background-attachment:fixed; 
+           OR
+           
+           */
+    
+   /* background: red url('images/2.jpg')  no-repeat fixed 5% 10% 
+    
+ multiple background*/
+   background-image:url('images/1.jpg'),url('images/2.jpg');
+   background-repeat:  no-repeat;
+   background-position:left top,right top;  
+
+
+
+    
+}   
+    

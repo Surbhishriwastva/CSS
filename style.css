@@ -1,0 +1,15 @@
+h{
+    color: red;
+}
+
+#h{
+    color:aqua
+}
+.h{
+    color:green
+}
+/* coomment which one get excuted*/
+#h{
+    color:yellow
+/* id > class>element
+/*

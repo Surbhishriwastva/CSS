@@ -1,0 +1,70 @@
+
+    
+    #border{
+     border-style:solid dashed solid dashed;
+     border-width: 5px 10px 2px 7px;
+     border-color: red blue yellow pink ;
+          
+
+       /* border:5px solid green;
+              or
+          border-top-style: solid;
+        border-top-width: 10px;
+         border-top-color: red ;
+
+            for curve
+
+          border-radius: 50px
+              or
+
+         border-bottom-right-radius:50px;*/
+    }
+    
+   /* #height{
+        background-color: red;
+        height:80px;
+        width: 50px;
+        max-height:500px ;
+        max-width: 800px;
+        min-height: 100px;
+        min-width: 300px;}
+        --------------------------------------------*/
+     #height{
+       border:1px solid red;
+        /*padding-top:50px;
+        padding-bottom: 80px;
+        padding-right: 10%;
+        padding-left:28%;*/
+
+        padding:25px 50px 30px 65px;}
+
+        .div1{
+            border:1px solid red;
+             /*padding-top:50px;
+             padding-bottom: 80px;
+             padding-right: 10%;
+             padding-left:28%;*/
+     
+             padding:25px 50px 30px 65px;
+        }
+        body{
+            border:5px dotted black;
+        }
+        #marg{
+           /* margin-top: 50px;
+            margin-bottom:20px;
+            margin-left:60px;
+            margin-right:40px;
+           /* margin:20px 80px 50px 40px;*/
+           width: 200px ; 
+           margin:20px auto;
+        }
+
+             
+
+       
+    
+
+
+
+
